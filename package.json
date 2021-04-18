@@ -1,0 +1,27 @@
+{
+  "name": "myProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSolo/JS-17.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasSolo/JS-17.0/issues"
+  },
+  "homepage": "https://github.com/NicholasSolo/JS-17.0#readme",
+  "devDependencies": {
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "eslint": "^7.23.0"
+  }
+}
